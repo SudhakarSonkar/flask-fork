@@ -12,4 +12,4 @@ psycopg2==2.9.3
 SQLAlchemy==1.4.36
 Werkzeug==2.1.2
 pypiwin32==223
-pywin32==304
+pywin32==227;platform_system == "Windows"
